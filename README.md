@@ -41,6 +41,8 @@ dic_monster = { "right" : MONSTER_01, "left" : MONSTER_02, "right2" : MONSTER_03
 		"left4" : MONSTER_07, "left5" : MONSTER_08, "left6" : MONSTER_09, "still1" : MONSTER_10, "still2" : MONSTER_11, "still3" : MONSTER_12 }
 ```
 
+#### 🧸💬 Correct response action possibilities
+
 ```
 conditions 	1 -> { 1, 2, 4 } ==> 3 / 12 == 0.25
 		2 -> { 1, 2, 3 } ==> 3 / 12 == 0.25
