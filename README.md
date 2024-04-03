@@ -11,6 +11,8 @@ Compact communication messages to examples of pulse modulation in communication 
 
 ### 🧸💬 The 5 player actions versus 12 monster actions with pulse modulation
 
+🐨🎁🎵🎶 The leading numbers communication is natural encryption because there are multiple levels of communication level ```understanding```, ```compatibility```, and ```user experiences```. The summation method used in the validation method can tell you quickly about what is the signals communicating and you can describe in detail and respond to feedback. ```High contrast number``` is the operating system or active code running such as ```SOS``` and ```FOD``` . </br>
+
 ```
 player 5 actions, monsters 12 actions
 
