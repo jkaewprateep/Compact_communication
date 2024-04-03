@@ -42,6 +42,9 @@ monster = [ 0, 0][2, 2][4][1, 1, 1][3, 3][0, 0][2, 2][4][1, 1, 1][3, 3][0, 0][2,
 
 #### 🧸💬 Data dictionary
 
+🐑💬 ➰ Starting from this idea programming and relationship conditions are hard to find by most people, we can build a machine to find some relationship from inputs for simple tasks such as ```do``` and ```don't``` actions. </br>
+🧸💬 We found these features in tools or utilities, how can you use a guide to find dangerous ```movement in the pathway``` or ```suddenly change of step level``` or ```friend animals help feeder?``` </br>
+
 <p align="center" width="100%">
     <img width="40%" src="https://github.com/jkaewprateep/Compact_communication/blob/main/monster_response_simulation.png"> </br>
     <b> Simulation on remote target from self-learning machine </b>
