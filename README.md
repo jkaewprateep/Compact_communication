@@ -88,6 +88,7 @@ conditions  	[1, 1, 1] -> [2, 2][4]
 
 🥺💬 Scale up a bit to find the alignment of two input sequences or time domain data transformation from ```[2, 2][4][1, 1, 1][3, 3][0, 0]``` to ```|------------ 0 -------------|``` . </br>
 🧸💬 The same series in response to the same sales domain, or different domain compressed 29 bytes to 1 byte. </br>
+🐑💬 ➰ Eventually, compressed 29 bytes of data to 3 or more bytes. </br>
 
 ```
 		[2, 2][4][1, 1, 1][3, 3][0, 0][2, 2][4][1, 1, 1][3, 3][0, 0][2, 2][4][1, 1, 1][3, 3]
