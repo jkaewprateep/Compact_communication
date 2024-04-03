@@ -32,6 +32,15 @@ monster = [ 0, 0][2, 2][4][1, 1, 1][3, 3][0, 0][2, 2][4][1, 1, 1][3, 3][0, 0][2,
 
 ### 🧸💬 Mapping method
 
+#### 🧸💬 Data dictionary
+
+```
+dic_image = { "still" : PLAYER_ST_PIC, "left" : PLAYER_LF_PIC, "left2" : PLAYER_L2_PIC, "right" : PLAYER_RT_PIC, "right2" : PLAYER_R2_PIC }
+
+dic_monster = { "right" : MONSTER_01, "left" : MONSTER_02, "right2" : MONSTER_03, "right3" : MONSTER_04, "right4" : MONSTER_05, "left3" : MONSTER_06,
+		"left4" : MONSTER_07, "left5" : MONSTER_08, "left6" : MONSTER_09, "still1" : MONSTER_10, "still2" : MONSTER_11, "still3" : MONSTER_12 }
+```
+
 ```
 conditions 	1 -> { 1, 2, 4 } ==> 3 / 12 == 0.25
 		2 -> { 1, 2, 3 } ==> 3 / 12 == 0.25
