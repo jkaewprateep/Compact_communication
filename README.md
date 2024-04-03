@@ -74,10 +74,10 @@ dic_monster = { "right" : MONSTER_01, "left" : MONSTER_02, "right2" : MONSTER_03
 👧💬 🎈 And it is reverse in contrast aggressive mode, we have a set of actions in the waiting list and find the time occurrence matching of both sequences initiation. ```{ right 1, 2, 3, 4, left 1, 2, 3, 4 }``` </br>
 
 ```
-conditions 	1 -> { 1, 2, 4 } ==> 3 / 12 == 0.25
-		2 -> { 1, 2, 3 } ==> 3 / 12 == 0.25
+conditions 	1 -> { 1, 2, 4 } ==> 3 / 12 == 0.250
+		2 -> { 1, 2, 3 } ==> 3 / 12 == 0.250
 		3 -> { 2, 4 }    ==> 2 / 12 == 0.167
-		4 -> { 0, 1, 3 } ==> 3 / 12 == 0.25
+		4 -> { 0, 1, 3 } ==> 3 / 12 == 0.250
 		...
 
 conditions  	[1, 1, 1] -> [2, 2][4]
@@ -85,6 +85,10 @@ conditions  	[1, 1, 1] -> [2, 2][4]
 ```
 
 ### 🧸💬 Mapping method - sequence
+
+🥺💬 Scale up a bit to find the alignment of two input sequences or time domain data transformation from ```[2, 2][4][1, 1, 1][3, 3][0, 0]``` to ```|------------ 0 -------------|``` . </br>
+🧸💬 The same series in response to the same sales domain, or different domain compressed 29 bytes to 1 byte. </br>
+
 ```
 		[2, 2][4][1, 1, 1][3, 3][0, 0][2, 2][4][1, 1, 1][3, 3][0, 0][2, 2][4][1, 1, 1][3, 3]
 		|------------ 0 -------------||------------ 1 -------------||------------ 2 -------------|
