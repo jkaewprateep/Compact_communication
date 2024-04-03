@@ -37,6 +37,7 @@ monster = [ 0, 0][2, 2][4][1, 1, 1][3, 3][0, 0][2, 2][4][1, 1, 1][3, 3][0, 0][2,
 💃( 👩‍🏫 )💬 In data communications signals communication property there is another we are talking about is pulse code modulation because signal message extraction can be performed in multiple levels and the accuracy of message extraction from the original message varies by the ```method```, ```compatibilities```, and ```user experiences```. Commercials can create message advertising with larger target group members with smaller group members having accurate messages or hidden messages. Some natural language and added into this message behavior to ``` assist people``` such as no connected sequence digits in keypad position or contrast numbers and alphanumeric commands to respond to multi-purpose assist people. 💃( 👩‍🏫 )💬 No command from same row keypad input ```2,3``` but ```2,6``` as example 😎💬 🎵🎶 . </br>
 🦭💬 ```Home``` and ```End```assignments are powerful buttons when we haven't used these commands ```Page Up``` and ```Page Down``` they assist people to find break points in digital e-books or start reading from paragraph. 😎💬 🎵🎶 . </br>
 🦤💬 Encryption algorithms do not mean only creating secret messages for fooling people but they can be used for natural language communication design. </br>
+[ Data correlation finding techniques ](https://github.com/jkaewprateep/lessonfrom_Introduction_to_Data_Science_in_Python/blob/main/README.md)
 
 
 #### 🧸💬 Data dictionary
