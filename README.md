@@ -104,3 +104,10 @@ D		['0', '0', '0', '0', '1', '1', '0', '0', '0', '0', '1', '1']	==>
 Q1		['0', '0', '0', '1', '1', '1', '0', '0', '0', '1', '0', '0']	==> 
 SUM		[-----00-----][-----16------][-----00------][------14------]	==> FOD
 ```
+
+<p align="center" width="100%">
+    <img width="40%" src="https://github.com/jkaewprateep/Compact_communication/blob/main/Snakes.gif"> </br>
+    <b> Simulation on remote target from self-learning machine </b> </br>
+    <img width="40%" src="https://github.com/jkaewprateep/Compact_communication/blob/main/waterworld.gif"> </br>
+    <b> Simulation on remote target from self-learning machine </b>
+</p>
