@@ -16,11 +16,13 @@ Compact communication messages to examples of pulse modulation in communication 
 ```
 player 5 actions, monsters 12 actions
 
-input =   [ 0, 0, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 4, 4, 4, 4, 4, 4, 3, 3, 3, 1, 1, 1, 0, 0 ]
-monster = [ 0, 0, 2, 2, 4, 1, 1, 1, 3, 3, 0, 0, 2, 2, 4, 1, 1, 1, 3, 3, 0, 0, 2, 2, 4, 1, 1, 1, 3, 3 ]
+input =   [ 0, 0, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 1, 1, 1, 4, 4, 4, 4, 4, 4, 3, 3, 3, 1, 1, 1, 0, 0 ]    # 🧸💬 Sequence action of player 
+monster = [ 0, 0, 2, 2, 4, 1, 1, 1, 3, 3, 0, 0, 2, 2, 4, 1, 1, 1, 3, 3, 0, 0, 2, 2, 4, 1, 1, 1, 3, 3 ]    # 🧸💬 Sequence action of monster
 
-input =   [ 0, 0][1, 1, 1][2, 2, 2, 2, 2, 2, 2, 2][1, 1, 1][4, 4, 4, 4, 4, 4][3, 3, 3][1, 1, 1][0, 0 ]
-monster = [ 0, 0][2, 2][4][1, 1, 1][3, 3][0, 0][2, 2][4][1, 1, 1][3, 3][0, 0][2, 2][4][1, 1, 1][3, 3 ]
+input =   [ 0, 0][1, 1, 1][2, 2, 2, 2, 2, 2, 2, 2][1, 1, 1][4, 4, 4, 4, 4, 4][3, 3, 3][1, 1, 1][0, 0 ]    # 🧸💬 Gropping action of player
+monster = [ 0, 0][2, 2][4][1, 1, 1][3, 3][0, 0][2, 2][4][1, 1, 1][3, 3][0, 0][2, 2][4][1, 1, 1][3, 3 ]    # 🧸💬 Gropping action of monster
+
+# 👧💬 🎈 You can tell it easy monster does not care about the player's moves.
 ```
 
 <p align="center" width="100%">
