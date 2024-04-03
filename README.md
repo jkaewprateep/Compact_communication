@@ -56,7 +56,7 @@ monster = [ 0, 0][2, 2][4][1, 1, 1][3, 3][0, 0][2, 2][4][1, 1, 1][3, 3][0, 0][2,
 
 🐑💬 ➰ The reason for using a data ```dictionary``` more often is we can read the value from the ```target attribute``` key by word understanding and meaning as we can create when we define these attributes. </br>
 🦤💬 Go back into the past more than 10 years when scientists and developers tried to create word sentiment and natural language processing methods to assist the command input by humans and they found there were too many numbers and variables to handle when performing the method development. One way is to define readable variables we can manage and one method is using a data dictionary, inside of the speech synthesis engine, they can read from the ```dictionary key items``` and ```key item values``` . </br>
-💃( 👩‍🏫 )💬 The ```autograph`` and ```bin button barcode``` initially created not to prevent of thief but to assist people about authorize of people and businesses see their technology benefits, ``autograph`` may help with signing and text reading assistance also pin button barcode for identification helper. </br>
+💃( 👩‍🏫 )💬 The ```autograph``` and ```pin button barcodes``` initially created not to prevent of thief but to assist people about authorize of people and businesses see their technology benefits, ```autograph``` may help with signing and text reading assistance also ```pin button barcodes``` for identification helper. </br>
 
 ```
 dic_image = { "still" : PLAYER_ST_PIC, "left" : PLAYER_LF_PIC, "left2" : PLAYER_L2_PIC, "right" : PLAYER_RT_PIC, "right2" : PLAYER_R2_PIC }
