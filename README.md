@@ -70,6 +70,9 @@ dic_monster = { "right" : MONSTER_01, "left" : MONSTER_02, "right2" : MONSTER_03
 
 #### 🧸💬 Correct response action possibilities
 
+🦭💬 The application idea is the select ```the most frequent action that occurs``` and ```actions to respond``` to support the action given, multiplexer or multiplication can tell which actions are ```most likely to occur``` at the time this is the level of the target remote device implementer by embedded logic. </br>
+👧💬 🎈 And it is reverse in contrast aggressive mode, we have a set of actions in the waiting list and find the time occurrence matching of both sequences initiation. ```{ right 1, 2, 3, 4, left 1, 2, 3, 4 }``` </br>
+
 ```
 conditions 	1 -> { 1, 2, 4 } ==> 3 / 12 == 0.25
 		2 -> { 1, 2, 3 } ==> 3 / 12 == 0.25
