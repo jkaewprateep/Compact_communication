@@ -25,7 +25,8 @@ monster = [ 0, 0][2, 2][4][1, 1, 1][3, 3][0, 0][2, 2][4][1, 1, 1][3, 3][0, 0][2,
 # 👧💬 🎈 You can tell it easy monster does not care about the player's moves.
 ```
 
-👧💬 🎈 When communication bandwidths is narrowed and we need to create more actions than its design, someone shows up and talks about data variance in pulse codes modulation or prismns. 👨🏻‍🏫 </br>
+👧💬 🎈 When communication bandwidths are narrowed and we need to create more actions than its design, someone shows up and talks about data variance in pulse code modulation or prismns. 👨🏻‍🏫 </br>
+👨🏻‍🏫💬 In the white lights noise backgrounds carrier we see they are composed of many lights and the meaning of existing information they can contain. </br> 
 
 <p align="center" width="100%">
     <img width="40%" src="https://github.com/jkaewprateep/Compact_communication/blob/main/pulse_code_modulation.png"> </br>
