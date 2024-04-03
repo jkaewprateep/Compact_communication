@@ -45,7 +45,7 @@ monster = [ 0, 0][2, 2][4][1, 1, 1][3, 3][0, 0][2, 2][4][1, 1, 1][3, 3][0, 0][2,
 🐑💬 ➰ Starting from this idea programming and relationship conditions are hard to find by most people, we can build a machine to find some relationship from inputs for simple tasks such as ```do``` and ```don't``` actions. </br>
 🧸💬 We found these features in tools or utilities, how can you use a guide to find dangerous ```movement in the pathway``` or ```suddenly change of step level``` or ```friend animals help feeder?``` </br>
 🐐💬 There are many function buttons on the keyboard, the designer understands and assists people by adding space between sets of buttons not to save on the manufacturing costs but they be able to use of setup function in the future. 🐐💬 Fewer people ask this kinds of question today because it does not flash and has adaptive features. </br>
-💃( 👩‍🏫 )💬 The ```scroll lock``` button tells you they are reading and do not skip the line meaning exists. </br>
+💃( 👩‍🏫 )💬 The ```scroll lock``` button tells you they are reading and do not skip the line meaning exists, in the attached picture prohibited actions detection. </br>
 
 <p align="center" width="100%">
     <img width="40%" src="https://github.com/jkaewprateep/Compact_communication/blob/main/monster_response_simulation.png"> </br>
