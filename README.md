@@ -34,6 +34,11 @@ monster = [ 0, 0][2, 2][4][1, 1, 1][3, 3][0, 0][2, 2][4][1, 1, 1][3, 3][0, 0][2,
 
 #### 🧸💬 Data dictionary
 
+<p align="center" width="100%">
+    <img width="40%" src="https://github.com/jkaewprateep/Compact_communication/blob/main/monster_response_simulation.png"> </br>
+    <b> Simulation on remote target from self-learning machine </b>
+</p>
+
 ```
 dic_image = { "still" : PLAYER_ST_PIC, "left" : PLAYER_LF_PIC, "left2" : PLAYER_L2_PIC, "right" : PLAYER_RT_PIC, "right2" : PLAYER_R2_PIC }
 
