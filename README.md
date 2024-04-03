@@ -33,6 +33,8 @@ monster = [ 0, 0][2, 2][4][1, 1, 1][3, 3][0, 0][2, 2][4][1, 1, 1][3, 3][0, 0][2,
 ### 🧸💬 Mapping method
 
 🐐💬 In simple communications compression mapping messages with target codes or multiplexers for usage sequence order is a simple method for data communication message compression. That is ```direct message compression``` or ```lossless compression```, not the ```lossless attenuation``` as in the famous series movie. In communication signals, the property is the ability to create ```unique communication messages``` from multiple original messages with data cyclic controls, and ```data validation```, and ```data recovery```. </br>
+🐑💬 ➰ In business requirements they are finding a method for creating messages that can only be read by the message generator and the target message to responses. There are multiple sharing methods as ```symmetric message communications encryptions ``` and ```message substitution```, this method is fast but it requires securing both sides of the transmitter and receiver's stronghold of the secret keys and/or the method for reading and understanding the communication message and response and ```asymmetric encryption``` method. </br>
+
 
 #### 🧸💬 Data dictionary
 
